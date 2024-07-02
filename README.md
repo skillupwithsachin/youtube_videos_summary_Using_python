@@ -70,5 +70,7 @@ Note: These will be the most important sentences in the document.
 
 Combine all the sentences to get the summary of the document.
 
+Congratulations on completing your video-to-text summary project! You’ve done an excellent job. Applying your skills with hands-on projects like this is a great way to get comfortable with new techniques and technologies.
+
 
 
